@@ -17,7 +17,8 @@ header{
     padding: 50px 30px;
 }
 .header-image{
-    position: relative
+    position: relative;
+    width: 1250px;
 }
 .header-lists{
     height: 50px;
